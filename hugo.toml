@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://pop9006.github.io"
 title = "Game Develop"
 theme = "hugo-coder"
 languagecode = "zh-cn"
